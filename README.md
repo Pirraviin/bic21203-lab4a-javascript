@@ -21,6 +21,7 @@ This repository contains three small interactive webpages demonstrating JavaScri
 
 ## Question 1 — Interactive Text Changer
 The page initially displays “Welcome to my website!”. Click **Change Message**. The paragraph should change to “Hello there!”.
+![Q1 Output](screenshot/Q1.png)
 
 ## Question 2 — Smart Number Validator
 Enter a value and click **Check**. Test the following:
