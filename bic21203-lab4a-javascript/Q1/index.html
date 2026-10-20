@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>Interactive Text Changer</h1>
+
+<div id="myElement">
+  <p id="message">Welcome to my website!</p>
+</div>
+
+<button id="changeBtn" type="button">Change Message</button>
+
+<script>
+// Select elements
+const messagePara = document.getElementById("message");
+const changeBtn = document.getElementById("changeBtn");
+
+// Define function
+function changeMessage() {
+  messagePara.textContent = "Hello there!";
+}
+
+// Add event listener
+changeBtn.addEventListener("click", changeMessage);
+</script>
+
+</body>
+</html>
