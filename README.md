@@ -34,8 +34,11 @@ Enter a value and click **Check**. Test the following:
 | Empty or spaces only | Please enter a valid number! |
 | `10.5` | The number is higher than 10 |
 
+![Q2 Output](bic21203-lab4a-javascript/screenshots/Q2.png)
+
 ## Question 3 — Dynamic Number Generator
 Click **Generate**. The ordered list should contain “The number is 1” through “The number is 5”. Click the button again to verify that the list does not duplicate.
+![Q3 Output](bic21203-lab4a-javascript/screenshots/Q3.png)
 
 ## Reflection
 This lab helped me practise selecting HTML elements using JavaScript DOM methods and responding to user actions with event listeners. I used a function to change paragraph content, conditional statements to validate numeric input, and a `for` loop to generate list items. I also learned to clear existing list content before regenerating it to avoid duplicates. Testing different inputs helped me check that the pages behave as expected.
