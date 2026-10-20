@@ -36,20 +36,5 @@ Enter a value and click **Check**. Test the following:
 ## Question 3 — Dynamic Number Generator
 Click **Generate**. The ordered list should contain “The number is 1” through “The number is 5”. Click the button again to verify that the list does not duplicate.
 
-## Screenshots / test evidence
-Capture your own screenshots after running each page in a browser. Save them in the `screenshots/` folder, for example:
-- `screenshots/q1-output.png` — show the changed message after clicking the button.
-- `screenshots/q2-output.png` — show representative validation output. For complete evidence, capture the different input cases or include them in a test table in your report.
-- `screenshots/q3-output.png` — show the generated list after clicking Generate, ideally after clicking it more than once to verify there are no duplicates.
-
-**Important:** Screenshots have not been included yet. Add genuine screenshots from your own tests before submitting.
-
 ## Reflection
 This lab helped me practise selecting HTML elements using JavaScript DOM methods and responding to user actions with event listeners. I used a function to change paragraph content, conditional statements to validate numeric input, and a `for` loop to generate list items. I also learned to clear existing list content before regenerating it to avoid duplicates. Testing different inputs helped me check that the pages behave as expected.
-
-## Before submission
-- [ ] Add screenshots captured from your browser.
-- [ ] Create the GitHub repository and upload these files.
-- [ ] Replace the repository placeholder in this README with the real GitHub URL.
-- [ ] Add the real GitHub URL to the final PDF.
-- [ ] Check the lecturer's instructions and submit the PDF through AUTHOR or the specified LMS.
