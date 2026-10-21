@@ -3,7 +3,7 @@
 ## Student details
 - **Name:** PIRRAVIIN A/L MANIMARAN
 - **Student ID:** CI240058
-- **GitHub repository:** To be added after the repository is created.
+- **Course:** BIC21203
 
 ## Overview
 This repository contains three small interactive webpages demonstrating JavaScript DOM selection, functions, conditional statements, loops, element creation, and event listeners.
